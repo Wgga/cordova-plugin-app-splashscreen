@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+	<LinearLayout
+		android:id="@+id/splash_con"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical">
+	</LinearLayout>
+	<ImageView
+		android:id="@+id/airplane"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:translationX="0dp"
+		android:translationY="-20dp"
+		android:scaleX="1.5"
+		android:scaleY="1.5"
+		android:scaleType="centerInside"
+		android:src="@drawable/airplane" />
+	<ImageView
+		android:id="@+id/textbg"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:scaleType="centerCrop"
+		android:src="@drawable/textbg" />
+	<ImageView
+		android:id="@+id/light"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:translationX="100dp"
+		android:alpha="0.8"
+		android:scaleX="1.5"
+		android:scaleY="1.5"
+		android:scaleType="centerInside"
+		android:src="@drawable/light"/>
+</FrameLayout>
