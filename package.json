@@ -47,7 +47,7 @@
     }
   },
   "author": "Apache Software Foundation",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "devDependencies": {
     "jshint": "^2.6.0"
   }
