@@ -20,4 +20,4 @@
 -->
 # Release Notes
 ### 1.0.1 (May 9, 2023)
-* Added view animation operation on the original plugin(https://github.com/apache/cordova-plugin-splashscreen)
+* Added view animation operation on the [original plugin](https://github.com/apache/cordova-plugin-splashscreen)
