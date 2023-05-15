@@ -4,7 +4,7 @@
   "description": "Cordova Splashscreen Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-splashscreen",
+    "id": "cordova-plugin-app-splashscreen",
     "platforms": [
       "android",
       "ubuntu",
@@ -16,9 +16,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Wgga/cordova-plugin-app-splashscreen"
-  },
-  "bugs": {
-    "url": "https://issues.apache.org/jira/browse/CB"
   },
   "keywords": [
     "cordova",
